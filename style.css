@@ -1,0 +1,147 @@
+header{
+    background-image: url(headimg.webp);
+    height: 650px;
+    width: 100%;
+    background-repeat:no-repeat ;
+    object-fit: cover;
+}
+.small{
+    width: 150px;
+    height: 70px; 
+    margin-left: 100px;
+}
+nav{
+    background-color: black;
+}
+.one{
+    height: 40px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 135px;
+    position: absolute;
+    margin-left: 990px;
+}
+.two{
+    height: 40px;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 20px;
+    width: 135px;
+    position: absolute;
+    margin-left: 1150px;
+}
+.fa-arrow-right{
+    border: 1px solid white;
+    border-radius: 25px;
+    color: red;
+    background-color: white;
+}
+.oneh{
+    margin-left: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ony{
+    margin-left: 50px;
+}
+.firstp{
+    color: gainsboro;
+    margin-left: 350px;
+}
+.cawrd1{
+    background-color: white;
+    width: 270px;
+    height: 140px;
+    padding: 19px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+.cb1{
+    margin-left: 310px;
+    border: 1px solid white;
+    border-radius: 22px;
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.cawrd2{
+    background-color: white;
+    width: 270px;
+    height: 140px;
+    padding: 19px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 100px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: -165px;
+}
+.cb2{
+    margin-left: 630px;
+    border: 1px solid white;
+    border-radius: 22px;
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    margin-top: -65px;
+}
+.cawrd3{
+    background-color: white;
+    width: 270px;
+    height: 140px;
+    padding: 19px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 875px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: -227px;
+}
+.cb3{
+        margin-left: 950px;
+    border: 1px solid white;
+    border-radius: 22px;
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    margin-top: -110px;
+}
+.thirdpart{
+    background-color: rgb(12, 12, 12);
+    text-align: center;
+    background-image: url(dummys.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.sec{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.tex2{
+    color: white;
+}
+.pg3img1{
+    margin-left: 750px;
+    width: 510px;
+    height: 278.17px;
+}
+.smaller{
+    width: 170px;
+    height: 50px;
+    float: left;
+    margin-left: 150px;
+}
+.tree{
+    color: white;
+    float: left;
+}
